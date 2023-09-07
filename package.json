@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalkarSandhu/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalkarSandhu/react/issues"
+  },
+  "homepage": "https://github.com/BalkarSandhu/react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
